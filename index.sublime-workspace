@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"con",
+				"confirmAge"
+			],
+			[
+				"confir",
+				"confirmSteak"
+			],
+			[
+				"heD",
+				"header\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"color",
+				"colorfunction"
+			],
+			[
+				"fu",
+				"colorFunction"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"border-bottom",
+				"border-bottom-style"
+			],
+			[
+				"border-bo",
+				"border-bottom-style"
+			],
+			[
+				"border-w",
+				"border-width"
+			],
+			[
+				"border",
+				"border-right-width"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"h",
+				"h6\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"pwd",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/namur/Documents/QuickHerokuDemo2/index.php",
+		"/C/Users/namur/Documents/QuickHerokuDemo2/composer.json",
+		"/C/Users/namur/Documents/QuickHerokuDemo2/HTML-Bio-withCSS (1).html",
+		"/C/Users/namur/Downloads/HTML-Bio-withCSS (1).html",
+		"/C/Users/namur/Downloads/style.css",
+		"/C/Users/namur/Documents/Bootstrap Customer Theme/index.html",
+		"/C/Users/namur/Responsive-Portfolio/portfolio.html",
+		"/C/Users/namur/Responsive-Portfolio/contact.html",
+		"/C/Users/namur/Responsive-Portfolio/index.html",
+		"/C/Users/namur/Responsive-Portfolio/assets/css/style.css",
+		"/C/Users/namur/Documents/Basic-Portfolio/assets/css/font-awesome.css",
+		"/C/Users/namur/Desktop/font-awesome-4.7.0/css/font-awesome.css",
+		"/C/Users/namur/Desktop/HW-Wireframe/index.html",
+		"/C/Users/namur/Desktop/HW-Wireframe/style.css",
+		"/C/Users/namur/Desktop/PREWORK_AM/Module-8/The_Clash_Fan_Page.html",
+		"/C/Users/namur/Downloads/JSDissect.html",
+		"/C/Users/namur/Downloads/steak.html",
+		"/C/Users/namur/Downloads/ConditionalDemo2.html",
+		"/C/Users/namur/Downloads/arraysactivity.html",
+		"/C/Users/namur/Downloads/conditionaldemo.html",
+		"/C/Users/namur/Downloads/ConsoleDemoInstructor.html",
+		"/C/Users/namur/Downloads/PromptSushi.html",
+		"/C/Users/namur/Downloads/PizzaVariables.html",
+		"/C/Users/namur/Downloads/4-PizzaVariables.html",
+		"/C/Users/namur/Desktop/style.css",
+		"/C/Users/namur/Desktop/wolfwireframe.html",
+		"/C/Users/namur/Desktop/WireFrame/twireframe.html",
+		"/C/Users/namur/Desktop/test2.html",
+		"/C/Users/namur/Desktop/1119bootstrap.html",
+		"/C/Users/namur/Desktop/1119bootstraptest.html",
+		"/C/Users/namur/Desktop/liboot.htm..html",
+		"/C/Users/namur/Desktop/boot.css",
+		"/C/Users/namur/Desktop/111916bootstrap.html",
+		"/C/Users/namur/Desktop/111916bootstrap.css",
+		"/C/Users/namur/Desktop/Bootstrap.html",
+		"/C/Users/namur/Desktop/lihtmltest.html",
+		"/C/Users/namur/Desktop/lihtml.css",
+		"/C/Users/namur/HW-Wireframe/README.md",
+		"/C/Users/namur/Desktop/twireframe.html",
+		"/C/Users/namur/Desktop/twireframe.css",
+		"/C/Users/namur/Desktop/testwireframe.css",
+		"/C/Users/namur/Desktop/testwireframe.html",
+		"/C/Users/namur/Desktop/index.html",
+		"/C/Users/namur/QuickHerokuDemo/index.php",
+		"/C/Users/namur/QuickHerokuDemo/style.css",
+		"/C/Users/namur/QuickHerokuDemo/HTML-Bio-withCSS.html",
+		"/C/Users/namur/Desktop/resetstyle.css",
+		"/C/Users/namur/Desktop/Reset.html",
+		"/C/Users/namur/Martha/murphy.html",
+		"/C/Users/namur/Martha/bastat.css",
+		"/C/Users/namur/Desktop/position.html",
+		"/C/Users/namur/Desktop/floats.html",
+		"/C/Users/namur/Desktop/floats.css",
+		"/C/Users/namur/Desktop/RelativePaths_WorkingExample/HTML-Bio-withCSS.html",
+		"/C/Users/namur/Desktop/RelativePaths_1/HTML_BIO.html",
+		"/C/Users/namur/Desktop/RelativePaths_2/HTML_BIO.html",
+		"/C/Users/namur/Desktop/RelativePaths_3/HTML_BIO.html",
+		"/C/Users/namur/Assets/Student_Bio.html",
+		"/C/Users/namur/Assets/assets/stylesheet.css",
+		"/C/Users/namur/Assets/stylesheet.css",
+		"/C/Users/namur/Assets/style.css",
+		"/C/Users/namur/Desktop/Student_Bio.html",
+		"/C/Users/namur/Desktop/Title_Test.html",
+		"/C/Users/namur/Documents/Student_A_Murray.html",
+		"/C/Users/namur/Documents/style.css",
+		"/C/Users/namur/Desktop/PREWORK_AM/Module-7/WorkingCode/style.css",
+		"/C/Users/namur/Desktop/Murphy The Dog.html",
+		"/C/Users/namur/Desktop/Murphy",
+		"/C/Users/namur/Desktop/The First Day v2.html",
+		"/C/Users/namur/Desktop/CSS/index.html",
+		"/C/Users/namur/Desktop/PREWORK_AM/Module-7/WorkingCode/GrumpyCat.html",
+		"/C/Users/namur/Desktop/PREWORK_AM/Module-7/BrokenCode/BooTheDog.html",
+		"/C/Users/namur/Desktop/PREWORK_AM/Module-7/BrokenCode/style.css",
+		"/C/Users/namur/Desktop/PREWORK_AM/Module-7/WorkingCode/logic.js",
+		"/C/Users/namur/Desktop/PREWORK_AM/Module-7/BrokenCode/logic.js",
+		"/C/Users/namur/Desktop/CSS/style.css",
+		"/C/Users/namur/Desktop/WorkingCode/logic.js",
+		"/C/Users/namur/Desktop/WorkingCode/GrumpyCat.html",
+		"/C/Users/namur/Desktop/CSS/Javascript/javascript index.html",
+		"/C/Users/namur/Desktop/CSS/Javascript/javascript.js",
+		"/C/Users/namur/Desktop/A Chocolately Dilemma.html",
+		"/C/Users/namur/Desktop/WorkingCode/style.css",
+		"/C/Users/namur/Desktop/java index.html",
+		"/C/Users/namur/Desktop/The_Clash_Fan_Page.html",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Users/namur/Desktop/BrokenCode/BooTheDog.html",
+		"/C/Users/namur/Desktop/WorkingCode/My_First_Website.html"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"google",
+			"map",
+			"google",
+			"viewport",
+			"header",
+			"facebook",
+			"face",
+			"twitter",
+			"linked",
+			"awesome",
+			"css",
+			"div",
+			"grow"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
